@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  border-left: 10px solid gray;
+  padding: 10px;
+}
+
+.coach {
+  background-color: #f2fe83;
+}
